@@ -1,0 +1,17 @@
+{
+    "dataset_file": "diabetes_bangladesh.csv",
+    "target_column": "diabetic",
+    "deployed_model": "XGBoost",
+    "deployed_threshold": 0.24999999999999992,
+    "train_size": 3805,
+    "validation_size": 816,
+    "test_size": 816,
+    "test_metrics": {
+        "Accuracy": 0.866421568627451,
+        "Precision": 0.2698412698412698,
+        "Recall": 0.6666666666666666,
+        "Specificity": 0.8797385620915033,
+        "F1_Score": 0.384180790960452,
+        "ROC_AUC": 0.8621812123542227
+    }
+}

@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+joblib
+streamlit
+matplotlib
+openpyxl
+xgboost
+shap
+requests
+reportlab
+python-docx
+Pillow
+# optional, enables one-click "use my current location" in the Nearby Care tab
+# streamlit-js-eval

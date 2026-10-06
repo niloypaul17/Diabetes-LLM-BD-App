@@ -1,0 +1,66 @@
+[
+  {
+    "id": "diet",
+    "topic": "diet and food",
+    "keywords": ["food", "eat", "diet", "meal", "sugar", "carbohydrate", "rice"],
+    "text": "General dietary guidance for people at risk of or living with type-2 diabetes: limit sugary drinks and refined carbohydrates, prioritize vegetables and fiber-rich foods, and keep portion sizes for staples like rice consistent across meals. This is general education, not a personal diet plan; a doctor or registered dietitian should set individual targets.",
+    "source_name": "WHO Diabetes Fact Sheet",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+  },
+  {
+    "id": "exercise",
+    "topic": "physical activity",
+    "keywords": ["exercise", "walk", "physical", "activity", "gym"],
+    "text": "Regular physical activity, such as brisk walking for at least 150 minutes per week, is commonly recommended as part of type-2 diabetes prevention and management because it improves insulin sensitivity. People with existing heart, joint, or eye complications should check with a doctor before starting a new routine.",
+    "source_name": "ADA Standards of Care in Diabetes",
+    "source_url": "https://diabetesjournals.org/care/issue/48/Supplement_1"
+  },
+  {
+    "id": "symptoms",
+    "topic": "symptoms and warning signs",
+    "keywords": ["symptom", "sign", "thirsty", "urination", "tired", "vision"],
+    "text": "Common symptoms associated with high blood glucose include excessive thirst, frequent urination, unexplained fatigue, blurred vision, and slow-healing wounds. Symptoms alone cannot confirm diabetes; a clinical blood test is required for diagnosis.",
+    "source_name": "WHO Diabetes Fact Sheet",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+  },
+  {
+    "id": "medication",
+    "topic": "medication and insulin",
+    "keywords": ["medicine", "tablet", "insulin", "dose", "metformin", "drug"],
+    "text": "Medication and insulin decisions, including starting, stopping, or adjusting a dose, must be made by a qualified doctor based on clinical tests and full medical history. This system cannot and does not prescribe, recommend, or adjust medication.",
+    "source_name": "WHO Diabetes Fact Sheet",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+  },
+  {
+    "id": "diagnosis",
+    "topic": "testing and diagnosis",
+    "keywords": ["test", "diagnosis", "check", "hba1c", "confirm", "screen"],
+    "text": "Diabetes is clinically confirmed using tests such as fasting plasma glucose, HbA1c, or an oral glucose tolerance test, interpreted by a healthcare professional. A statistical risk estimate from this prototype is a prompt to seek testing, not a diagnosis.",
+    "source_name": "IDF Diabetes Atlas, 11th Edition",
+    "source_url": "https://diabetesatlas.org/resources/idf-diabetes-atlas-2025/"
+  },
+  {
+    "id": "risk_factors",
+    "topic": "risk factors",
+    "keywords": ["risk factor", "cause", "family history", "bmi", "hypertension", "obesity"],
+    "text": "Recognized risk factors for type-2 diabetes include higher body mass index, elevated blood pressure, a family history of diabetes, older age, and low physical activity. Having one or more risk factors raises statistical likelihood; it does not guarantee the condition will develop.",
+    "source_name": "IDF Diabetes Atlas, 11th Edition",
+    "source_url": "https://diabetesatlas.org/resources/idf-diabetes-atlas-2025/"
+  },
+  {
+    "id": "complications",
+    "topic": "complications",
+    "keywords": ["complication", "kidney", "eye", "nerve", "heart", "foot"],
+    "text": "Poorly controlled diabetes over time is associated with complications affecting the eyes, kidneys, nerves, feet, and cardiovascular system. Regular checkups and early management substantially reduce this risk.",
+    "source_name": "WHO Diabetes Fact Sheet",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+  },
+  {
+    "id": "bangladesh_context",
+    "topic": "diabetes in Bangladesh",
+    "keywords": ["bangladesh", "prevalence", "south asia"],
+    "text": "South Asian populations, including Bangladesh, show a pattern of higher diabetes risk at lower body mass index thresholds than Western populations, which is one reason population-specific screening data is valuable rather than relying only on global cutoffs.",
+    "source_name": "IDF Diabetes Atlas, 11th Edition",
+    "source_url": "https://diabetesatlas.org/resources/idf-diabetes-atlas-2025/"
+  }
+]
